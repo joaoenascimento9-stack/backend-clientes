@@ -100,7 +100,7 @@ git remote -v
 Substituir a URL abaixo pela URL do repositório criado pelo aluno.
 
 ```bash
-git remote set-url origin https://github.com/USUARIO-DO-ALUNO/backend-clientes.git
+git remote set-url origin https://github.com/joaoenascimento9/backend-clientes.git
 ```
 
 ### Passo 4: confirmar o novo remoto
